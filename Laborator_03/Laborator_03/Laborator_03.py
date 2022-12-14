@@ -1,4 +1,4 @@
-# LABORATOR 03
+# LABORATOR 03 - functii predefinite
 
 #Sa se afiseze aleator 3 numere si sa se determine valoarea radicalului sumei celor 3 numere.
 #Pentru partea zecimala a radicalului afisati doar 5 zecimale.

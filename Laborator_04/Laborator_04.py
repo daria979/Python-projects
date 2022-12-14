@@ -1,4 +1,4 @@
-# LABORATOR 04
+# LABORATOR 04 
 
 #Sa se scrie primele n patrate perfecte folosindu-se dictionarul
 

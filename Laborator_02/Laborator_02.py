@@ -1,4 +1,4 @@
-# LABORATOR 02
+# LABORATOR 02 - structuri de control
 
 # Se genereaza aleator 10 numere. Sa se afiseze numerele pare numerotate.
 

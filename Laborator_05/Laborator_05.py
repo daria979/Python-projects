@@ -1,4 +1,4 @@
-# LABORATOR 05
+# LABORATOR 05 - Functii definite de utilizator 
 
 # Se dau 3 puncte in plan cu coordonate aleatoare - valori intregi.
 # Sa se determine Aria triunghiului determinat de cele 3 puncte daca ele NU sunt coliniare.
